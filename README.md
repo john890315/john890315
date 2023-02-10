@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 style="text-align: center">Hi there 👋 I am John Macedo</h1>
+
+
+
 
 <!--
 **john890315/john890315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
